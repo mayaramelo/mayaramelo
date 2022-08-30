@@ -1,8 +1,7 @@
 <h1>Oiê, eu sou Mayara Melo</h1>
 <img align="right" alt="Maya-Avatar" height="150" widht"150" src="https://user-images.githubusercontent.com/106121757/187473007-0985d65d-33d7-494b-8cde-3a0c01834725.png" />
-<p>- 🔭 Estou no momento trabalhando com HTML e CSS</p>
-<p>- 😄 Pronouns:Ela/dela</p>
-<p>- ⚡ Fun fact: ...</p>
+<p>⭐ Estou no momento trabalhando com HTML e CSS</p>
+<p>⭐ Pronouns:Ela/dela</p>
 
 
 ![Mayara's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayaramelo&show_icons=true&theme=radical)
