@@ -1,8 +1,9 @@
 <h1>Oiê, eu sou Mayara Melo</h1>
-
+<img align="right" alt="Maya-Avatar" height="150" widht"150" src="https://user-images.githubusercontent.com/106121757/187473007-0985d65d-33d7-494b-8cde-3a0c01834725.png" />
 <p>- 🔭 Estou no momento trabalhando com HTML e CSS</p>
 <p>- 😄 Pronouns:Ela/dela</p>
 <p>- ⚡ Fun fact: ...</p>
+
 
 ![Mayara's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayaramelo&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayaramelo&layout=compact&theme=radical)](https://github.com/mayaramelo/github-readme-stats)
@@ -11,7 +12,8 @@
 <style="display: inline_block"> <br>
 <img align="center" alt="Maya-Canva" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img align="center" alt="Maya-Figma" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="center" alt="Maya-Figma" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
+<img align="center" alt="Maya-Figma" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
   </div>
   <br>
 <div>
@@ -20,3 +22,4 @@
   <a href=//www.behance.net/mayaradakini"><img align="center" alt="Maya-INsta" height="30" widht"40" <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
   
   </div>
+  
