@@ -3,10 +3,6 @@
 <p>⭐ Estou no momento trabalhando com HTML e CSS</p>
 <p>⭐ Pronouns:Ela/dela</p>
 
-
-![Mayara's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayaramelo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayaramelo&layout=compact&theme=radical)](https://github.com/mayaramelo/github-readme-stats)
-
 <div>
 <style="display: inline_block"> <br>
 <img align="center" alt="Maya-Canva" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
